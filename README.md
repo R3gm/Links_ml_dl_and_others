@@ -4,3 +4,5 @@ Links for utils
 https://heypi.com/talk
 
 replicate.com/
+
+https://open-assistant.io/chat

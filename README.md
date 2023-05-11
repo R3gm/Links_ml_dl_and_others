@@ -6,3 +6,5 @@ https://heypi.com/talk
 replicate.com/
 
 https://open-assistant.io/chat
+
+https://www.mia-tang.com/blog
